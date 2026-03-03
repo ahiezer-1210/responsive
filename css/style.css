@@ -48,7 +48,7 @@
     }
 }
 
-@media (min-widht: 769px) and (max-width: 1024px) and (orientation: portrait){
+@media (min-width: 769px) and (max-width: 1279px) and (orientation: portrait){
     .container{
         grid-template-columns: 1fr;
         grid-template-areas: 
@@ -60,7 +60,7 @@
     }
 }
 
-@media (min-widht: 769px) and (max-width: 1024px) and (orientation: landscape){
+@media (min-width: 769px) and (max-width: 1279px) and (orientation: landscape){
     .container{
         grid-template-columns: 200px 1fr;
         grid-template-areas: 
